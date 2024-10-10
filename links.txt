@@ -1,0 +1,11 @@
+Hubo problemas con github pages a la hora de cargar los 
+productos con el fetch (en live server si cargaban), 
+por lo que tuve que usar infinityfree.
+
+Link al repositorio de github con los archivos:
+https://github.com/AgustinaBuzzetti/EntregaFinal-Buzzetti.git
+
+Link a la página de infinityfree:
+http://entregafinal.great-site.net/?i=1
+
+Nota: si no le pongo ese "/?i=1" al final, la página no carga.
